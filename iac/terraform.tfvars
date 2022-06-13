@@ -1,3 +1,3 @@
-do_token="dop_v1_1aca02cfd89d34f994e1b624fb65dced44bbf5a83e170ea92a2ebdd4a2acb327"
+do_token="dop_v1_ca730ee1c852d6d6afad540fa9a4ed039e5bbc2fcae44691207ade775f958ad4"
 k8s_name="k8s"
 region="nyc1"
